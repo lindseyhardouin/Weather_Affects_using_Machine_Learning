@@ -1,4 +1,4 @@
-# Weather Affects : Do Weather Patterns Effect Restaurants’ Bottom Lines?
+# Weather Affects : Do Weather Patterns Affect Restaurants’ Bottom Lines?
 # Team Members
 -	Lindsey Hardouin
 -	Eli Santibanez
