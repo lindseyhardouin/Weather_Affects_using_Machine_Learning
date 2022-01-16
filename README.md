@@ -9,6 +9,7 @@ Is there a relationship between the weather and restaurant industry value? The t
 # Datasets to Be Used
 -	Alpaca API
 -	WeatherStack.com API
+-	Bloomin' Brands Inc website
 # Rough Breakdown of Tasks
 -	Create repo
 -	Identify data sources
